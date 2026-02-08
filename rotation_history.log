@@ -1,0 +1,15 @@
+app_logs/access_log.txt moved to archive sucessfully... Sat Feb  7 03:30:23 PM ACDT 2026
+app_logs/error_log1.txt moved to archive sucessfully... Sat Feb  7 03:30:23 PM ACDT 2026
+app_logs/error_log2.txt moved to archive sucessfully... Sat Feb  7 03:30:23 PM ACDT 2026
+app_logs/access_log.txt moved to archive sucessfully... Sat Feb  7 03:31:06 PM ACDT 2026
+app_logs/error_log1.txt moved to archive sucessfully... Sat Feb  7 03:31:06 PM ACDT 2026
+app_logs/error_log2.txt moved to archive sucessfully... Sat Feb  7 03:31:06 PM ACDT 2026
+app_logs/access_log.txt moved to archive sucessfully... Sat Feb  7 03:31:26 PM ACDT 2026
+app_logs/error_log1.txt moved to archive sucessfully... Sat Feb  7 03:31:26 PM ACDT 2026
+app_logs/error_log2.txt moved to archive sucessfully... Sat Feb  7 03:31:26 PM ACDT 2026
+Moved: /home/parallels/scripts/bash/app_logs/test1.txt -> /home/parallels/scripts/bash/app_logs/archive at Sun Feb  8 08:30:00 PM ACDT 2026
+Moved: /home/parallels/scripts/bash/app_logs/test2.txt -> /home/parallels/scripts/bash/app_logs/archive at Sun Feb  8 08:30:00 PM ACDT 2026
+Moved: /home/parallels/scripts/bash/app_logs/test3.txt -> /home/parallels/scripts/bash/app_logs/archive at Sun Feb  8 08:30:00 PM ACDT 2026
+Moved: /home/parallels/scripts/bash/app_logs/test4.txt -> /home/parallels/scripts/bash/app_logs/archive at Sun Feb  8 08:30:00 PM ACDT 2026
+Moved: /home/parallels/scripts/bash/app_logs/test5.txt -> /home/parallels/scripts/bash/app_logs/archive at Sun Feb  8 08:30:00 PM ACDT 2026
+Moved: /home/parallels/scripts/bash/app_logs/test6.txt -> /home/parallels/scripts/bash/app_logs/archive at Sun Feb  8 08:30:00 PM ACDT 2026
