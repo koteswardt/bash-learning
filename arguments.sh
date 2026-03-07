@@ -9,7 +9,7 @@ echo "Welcome to the scripting world!!"
 #inproduction its dangerous when forgot to give variable values some time when we are removing it might delete
 #home directory so use as below "${1:-} or ${2:-}"
 echo "Name:${1:-unknown user}"
-echo "Background:${2:-newbie}"
+echo "Background:${2:-newbie forgot to enter the 2nd argument}"
 echo "Welcome to the linux world $1 and you have a solid background $2 you can start scripting when your free"
 
 #if condition
